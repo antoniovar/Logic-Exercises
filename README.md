@@ -1,4 +1,4 @@
-# Logic-Exercises
+# :star: Logic-Exercises :star:
 Some logic exercises solved with JavaScript.
 
 The .html file is to view the program output through the console.
